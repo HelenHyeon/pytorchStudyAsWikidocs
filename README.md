@@ -1,1 +1,2 @@
-# pytorchStudyAsWikidocs
+# PyTorch로 시작하는 딥 러닝 입문
+### 동아리 여름방학 과제
